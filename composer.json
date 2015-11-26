@@ -30,7 +30,7 @@
         "liip/doctrine-cache-bundle" : "Allows to store sitemaps in cache"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Presta\\": "src/"
         }
     },
