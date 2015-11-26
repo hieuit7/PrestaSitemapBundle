@@ -31,10 +31,10 @@
     },
     "autoload": {
         "psr-0": {
-            "Presta\\SitemapBundle\\": ""
+            "Presta\\": "src"
         }
     },
-    "target-dir" : "Presta/SitemapBundle",
+    
     "extra": {
         "branch-alias": {
             "dev-master": "1.3.x-dev"
